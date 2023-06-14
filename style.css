@@ -103,7 +103,7 @@ header.sticky {
     z-index: 10001;
     cursor: pointer;
     display: none;
-    color: white;
+    background: white;
 }
 
 
